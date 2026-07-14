@@ -1,4 +1,4 @@
-# Fictional Company: NovaMart Global
+# Fictional Company: AIMart Global
 
 **Industry:** AI-powered Retail, E-Commerce, Logistics & Financial Services
 

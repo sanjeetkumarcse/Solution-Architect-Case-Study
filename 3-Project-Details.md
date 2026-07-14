@@ -31,7 +31,7 @@
 ## Project 2: E-Commerce Platform
 
 **Business**
-NovaMart Online Store
+AIMart Online Store
 
 **Features**
 
@@ -205,7 +205,7 @@ Students learn:
 
 Instead of a new project, students combine everything:
 
-**NovaMart Global Digital Transformation**
+**AIMart Global Digital Transformation**
 
 They design an architecture that includes:
 
