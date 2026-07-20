@@ -20,7 +20,7 @@ Your team has been hired as the Solution Architecture team to design and impleme
 
 # Business Problem
 
-NovaMart currently faces several operational challenges:
+AIMart currently faces several operational challenges:
 
 * Employees maintain multiple usernames and passwords.
 * HR information exists in different applications.
