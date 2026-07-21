@@ -1,4 +1,4 @@
-## Sample Solution Structure
+# Project 1 – Sample Solution
 
 ### 1. Requirement Analysis
 
